@@ -1,0 +1,26 @@
+{
+  "title": "Wargames",
+  "ps1_hostname": "wargames",
+  "ps1_username": "player",
+  "name": "Walchand Linux Users' Group",
+  "colors": {
+    "light": {
+      "background": "#000000",
+      "backgroundBox": "#00000080",
+      "foreground": "#ffffff",
+      "white": "#f7f7f4",
+      "yellow": "#ffff00",
+      "green": "#00ff00",
+      "gray": "#ffffff",  
+      "blue": "#0000ff",
+      "red": "#ff0000"
+    },
+    "dark": {
+      "yellow": "#ffff00",
+      "green": "#00ff00",
+      "gray": "#ffffff",
+      "blue": "#0000ff",
+      "red": "#ff0000"
+    }
+  }
+}
